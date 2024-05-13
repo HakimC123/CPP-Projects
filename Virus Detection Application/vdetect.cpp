@@ -1,4 +1,3 @@
-// CMSC 341 - Spring 2023 - Project 4
 #include "vdetect.h"
 VDetect::VDetect(int size, hash_fn hash, prob_t probing = DEFPOLCY){
     
