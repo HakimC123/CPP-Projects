@@ -1,5 +1,5 @@
 # **Loan Calculator**
--Took in user inputs of the loan amount, interest of the loan, and duration of the loan.
+-Took in user inputs of the loan amount, interest of the loan, and duration of the loan
 
 -Utilized the information that the user inputted to calculate the total loan interest, amount, and the monthly
 payment of this loan
