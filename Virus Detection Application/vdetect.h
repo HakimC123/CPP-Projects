@@ -1,4 +1,3 @@
-// CMSC 341 - Spring 2023 - Project 4
 #ifndef VDETECT_H
 #define VDETECT_H
 #include <iostream>
