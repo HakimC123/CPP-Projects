@@ -1,4 +1,3 @@
-// CMSC 341 - Spring 2023 - Project 4
 #include "vdetect.h"
 #include <random>
 #include <vector>
